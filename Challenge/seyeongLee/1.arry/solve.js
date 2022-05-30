@@ -3,9 +3,13 @@
 
 var nums = [100, 200, 300, 400, 500];
 
+// 첫번째 방법
+// nums.splice(3, 2);
+
+// 두번째 방법
+// nums.splice(-2, 2);
+
+// 세번째 방법
 nums.pop();
 nums.pop();
-
-// nums.splice(nums.length-2,2)
-
 console.log(nums);
