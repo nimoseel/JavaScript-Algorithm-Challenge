@@ -9,3 +9,5 @@ console.log(typeof(arr));
 // 2)  string
 // 3)  number
 // 4)  object
+
+// 정답 4번

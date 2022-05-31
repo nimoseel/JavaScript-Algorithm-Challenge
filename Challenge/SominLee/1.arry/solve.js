@@ -6,6 +6,11 @@ var nums = [100, 200, 300, 400, 500];
 nums.pop();
 nums.pop();
 
-// nums.splice(nums.length-2,2)
-
 console.log(nums);
+
+// 정답
+// nums.pop();
+// nums.pop();
+
+// 다른 방법
+// nums.splice(nums.length-2,2)

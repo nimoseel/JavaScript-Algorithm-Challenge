@@ -11,7 +11,7 @@ for(var i=1; i<5; i+=2){
     a += i;
 }
 
-console.log(a+b); //16
+console.log(a+b);
 
 
 // 1)  10
@@ -19,3 +19,4 @@ console.log(a+b); //16
 // 3)  14
 // 4)  16
 
+// 정답 4번
